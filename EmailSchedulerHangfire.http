@@ -1,0 +1,6 @@
+@EmailSchedulerHangfire_HostAddress = http://localhost:5176
+
+GET {{EmailSchedulerHangfire_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

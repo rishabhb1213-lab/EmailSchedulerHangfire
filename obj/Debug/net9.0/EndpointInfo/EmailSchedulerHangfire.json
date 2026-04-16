@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "EmailSchedulerHangfire",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Job/trigger": {
+      "post": {
+        "tags": [
+          "Job"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

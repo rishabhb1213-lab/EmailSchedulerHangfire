@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "EmailSchedulerHangfire.Controllers.JobController",
+    "Method": "Trigger",
+    "RelativePath": "api/Job/trigger",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
