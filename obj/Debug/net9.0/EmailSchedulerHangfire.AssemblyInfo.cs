@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmailSchedulerHangfire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77ed2605f990ad852c5953cce38eaa2c6bf187fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmailSchedulerHangfire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmailSchedulerHangfire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
